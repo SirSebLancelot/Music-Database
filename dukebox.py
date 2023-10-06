@@ -1,3 +1,5 @@
+# Code from course: Learn Python Programming Masterclass by Tim Buchalka
+
 import sqlite3
 try:
     import tkinter
